@@ -1,4 +1,4 @@
-# Windsurf Demo Repository (March 2025)
+# Windsurf IDE Demo Code-Gen Repository (March 2025)
 
 ![alt text](banner.webp)
 
